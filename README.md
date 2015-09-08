@@ -1,2 +1,6 @@
 # scripts
-Miscellaneous utilities
+Miscellaneous utilities:
+
+* [snapbackmirror.sh](README_snapbackmirror.md) Rsync-based backup with historical snapshots
+
+
